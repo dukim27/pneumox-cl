@@ -2,8 +2,6 @@
 
 This repository contains the code and experimental workflow for the submitted manuscript, **“PneumoX-CL: Similarity-Aware Stratified Replay for Cross-Domain Incremental Pneumonia Detection.”** The implementation is provided to support transparency and reproducibility of the proposed continual learning framework and its evaluation on sequential cross-domain **PneumoniaMNIST** experiments.
 
-A full bibliographic citation will be added upon publication.
-
 ---
 
 ## Overview

@@ -15,7 +15,7 @@ The framework combines:
 - evaluation on **five sequentially shifted PneumoniaMNIST domains**
 
 <p align="center">
-  <img src="assets/pneumox-cl_overview.png" alt="PneumoX-CL Overview" width="860">
+  <img src="assets/pneumox-cl_overview.PNG" alt="PneumoX-CL Overview" width="860">
 </p>
 
 **Figure 1.** Overview of the PneumoX-CL framework for sequential cross-domain pneumonia detection.
